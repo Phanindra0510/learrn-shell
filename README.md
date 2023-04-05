@@ -1,4 +1,4 @@
-# learrn-shell
+# learn-shell
 
 Shell Scripting Topics
 
